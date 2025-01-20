@@ -1,0 +1,1 @@
+curl http://localhost:4195/ready
