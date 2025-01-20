@@ -1,1 +1,2 @@
-tmux new -d -s connect rp-connect-python
+
+rp-connect-python run cfg.yaml
